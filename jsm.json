@@ -11,6 +11,26 @@
 			"indexs":1,
 			"ext": "./lib/douban.json"
 		},
+		{
+            "key": "撸網666",
+            "name": "撸網666(H)",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext": {
+                "简介": "content=\"&&\" />",
+                "播放链接前缀": "https://luw666.ink/index.php/vodplay",
+                "播放链接后缀": "-1-1.html",
+                "直接播放": "1",
+                "跳转播放链接": "urlDecode(var player_*url\":\"&&\")",
+                "搜索url": "https://luw666.ink/index.php/vodsearch/----------{pg}---.html?wd={wd}&submit=",
+                "分类": "国产传媒$160#日本$2#国产$1#韩国$4#欧美$5#动画$6#中字$9#VR$3",
+                "分类url": "https://luw666.ink/index.php/vodtype/{cateId}-{catePg}.html"}
+	       "jar":"https://gh.xxooo.cf/github.com/gaotianliuyun/gao/blob/master/jar/XBPQ.jar"
+              },
 		{ 
       "key": " ♥️色花堂  ", 
       "name": "♥️色花堂", 
