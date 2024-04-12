@@ -28,7 +28,7 @@
                 "跳转播放链接": "urlDecode(var player_*url\":\"&&\")",
                 "搜索url": "https://luw666.ink/index.php/vodsearch/----------{pg}---.html?wd={wd}&submit=",
                 "分类": "国产传媒$160#日本$2#国产$1#韩国$4#欧美$5#动画$6#中字$9#VR$3",
-                "分类url": "https://luw666.ink/index.php/vodtype/{cateId}-{catePg}.html"}
+                "分类url": "https://luw666.ink/index.php/vodtype/{cateId}-{catePg}.html"},
 	       "jar":"https://gh.xxooo.cf/github.com/gaotianliuyun/gao/blob/master/jar/XBPQ.jar"
               },
 		{ 
